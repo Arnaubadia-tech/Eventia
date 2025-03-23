@@ -165,7 +165,6 @@ matplotlib-inline
 mccabe
 mdit-py-plugins
 mdurl
-menuinst
 mistune
 more-itertools
 mpmath
