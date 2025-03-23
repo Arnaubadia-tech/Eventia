@@ -65,6 +65,7 @@ cookiecutter
 cryptography
 cssselect
 cycler
+Cython
 cytoolz
 dask
 dask-expr
