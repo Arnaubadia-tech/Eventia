@@ -1,3 +1,8 @@
+--global-option=build_ext 
+--global-option=-I/usr/include
+Cython==3.0.10
+numpy==1.26.4
+pandas==2.2.2
 aext-assistant
 aext-assistant-server
 aext-core
